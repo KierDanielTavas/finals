@@ -9,10 +9,10 @@
  }
 
  .header{
-    width: 30%;
+    width: 50%;
     margin: 50px auto 0px;
     color: white;
-    background: #597D35;
+    background: #00704A;
     text-align: center;
     border: 1px solid #B0C4DE;
     border-bottom: none;
@@ -22,7 +22,7 @@
  }
 
  form{
-    width: 30%;
+    width: 50%;
     margin: 0px auto;
     padding: 20px;
     border: 1px solid #B0C4DE;
@@ -72,3 +72,16 @@
         color:  white;
         background-color: #597D35;
     }
+  .submit-button {
+  display: block;
+  margin: auto;
+  width: 30%;
+  padding: 0.75rem;
+  background:   #00704A;
+  color: #fff;
+  font-family: 'Patua One' , cursive;
+  font-size: 30px;
+  border-radius: 5px;
+  border-color: transparent;
+  cursor: pointer;
+}
